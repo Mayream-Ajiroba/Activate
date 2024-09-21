@@ -1,0 +1,18 @@
+.welcomeScreen{
+h1{
+  text-align: center; 
+  border: 1px solid greenyellow; 
+  border-radius: 5px;
+
+}
+}
+.logout_screen{
+    text-align: center;
+    color: blueviolet;
+    border:  5px solid red;width: 100%; height: 100%; 
+    border: radius 10px; ;
+    #headin:hover{
+        color: rgb(0, 255, 85);
+        text-align: left;
+    }
+}

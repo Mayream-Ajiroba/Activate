@@ -1,0 +1,41 @@
+.boderCreate{
+    border: 1px;
+    height: 1000px;
+    margin: auto;
+    width: 80%;
+}
+.section1{
+    border: 1px solid gray;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px gray;
+    
+}
+.section2{
+    border: 1px solid gray;
+    height: 100px;
+    margin-top:2px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px;
+}
+h2{
+    text-align: center;
+}
+.section3{
+    border: 1px solid gray;
+    height: 120px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px;
+    margin-top: 30px ;
+}
+.section4{
+    border: 1px solid gray;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 1px 1px 1px 1px;
+    margin: 30px;
+}

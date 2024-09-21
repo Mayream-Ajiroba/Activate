@@ -1,0 +1,135 @@
+
+ /*#heading2:hover{
+    border: 10px;
+    background-color: blueviolet;
+}
+.pseudo p:first-child{
+    background-color: rgb(226, 43, 134);
+    color: wheat;
+}
+
+
+.pseudo p:last-child{
+    background-color: rgb(230, 12, 201);
+    color: wheat;
+    border: 10px;
+    border-radius: 12px;
+} */
+
+/*2n+1
+
+n=0  1
+n=1  3
+n=2  5 */
+
+ /*2n+2
+
+n=0  2
+n=2  6
+n=4   10 */
+
+/*
+.pseudo p:nth-of-type(2n+1){
+    background-color: black;
+    color: white;
+}
+
+
+
+.pseudo p:nth-of-type(2n+2){
+    background-color: orange;
+    color: wheat;
+}
+    */
+
+
+
+/*
+    .box{
+        width: 100%;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .box h1{
+        background-color: green;
+        display: inline-block;
+        padding: 40px;
+        margin: 40px;
+        border: 10px solid red;
+    }
+
+
+#{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.color {
+    color: red;
+    background-image: url(IMG_0189mmm.JPG);
+    width: 100%;
+    min-height:100vh ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+} 
+
+
+#mariam h1{
+position: absolute;
+bottom: 0;
+right: 0;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#boxCreation .box1{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+
+#boxCreation .box2{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    margin-left: 200px;
+}
+
+#boxCreation .box3{
+    width: 200px;
+    height: 200px;
+    background-color: indigo;
+    margin-left: 400px;
+}
+
+#boxCreation .box4{
+    width: 200px;
+    height: 200px;
+    background-color: violet;
+    margin-left: 600px;
+}
+    */
+
+.bola .box
+
+
+
+
+
+
+    
